@@ -92,15 +92,46 @@ Docker permite que você empacote uma aplicação e todas as suas dependências 
 
 A seguir, um exemplo simples de um Dockerfile para uma aplicação baseada em Ubuntu:
 
+
+### Dockerfile
+
+Crie um arquivo chamado `Dockerfile` na raiz do projeto com o seguinte conteúdo:
+
 ```dockerfile
-# Definir a imagem base
-FROM ubuntu:18.04
+# ------------------------------
+# Stage 1: Build da aplicação
+# ------------------------------
+FROM node:18-alpine AS build
 
-# Atualizar repositórios e instalar o Java 8
-RUN apt-get update && apt-get install -y openjdk-8-jdk
+# Define o diretório de trabalho
+WORKDIR /app
 
-# Copiar um arquivo de boas-vindas para dentro do contêiner
-RUN touch /arquivo-de-boas-vindas
+# Copia os arquivos de definição de dependências
+COPY package.json yarn.lock ./
 
-# Comando padrão ao iniciar o contêiner (pode ser sobrescrito)
-CMD ["bash"]
+# Instala as dependências
+RUN yarn install --frozen-lockfile
+
+# Copia o restante do código da aplicação
+COPY . .
+
+# Executa o build da aplicação (gera os arquivos estáticos em /app/dist)
+RUN yarn build
+
+# ------------------------------
+# Stage 2: Servir a aplicação com Nginx
+# ------------------------------
+FROM nginx:stable-alpine
+
+# Remove o conteúdo padrão do Nginx
+RUN rm -rf /usr/share/nginx/html/*
+
+# Copia os arquivos estáticos da etapa de build para o diretório do Nginx
+COPY --from=build /app/dist /usr/share/nginx/html
+
+# Expõe a porta 80 para acesso
+EXPOSE 80
+
+# Comando para iniciar o Nginx em primeiro plano
+CMD ["nginx", "-g", "daemon off;"]
+
