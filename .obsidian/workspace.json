@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infra/Docker.md",
+                "file": "Docker.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,8 +171,9 @@
   },
   "active": "8fad660642e7a98b",
   "lastOpenFiles": [
+    "Untitled",
+    "Docker.md",
     "Infra",
-    "Infra/Docker.md",
     "Untitled.canvas"
   ]
 }
