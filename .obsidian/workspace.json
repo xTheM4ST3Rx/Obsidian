@@ -11,14 +11,10 @@
             "id": "d57cbaf5006542e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "New tab"
             }
           }
         ]
@@ -169,9 +165,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fad660642e7a98b",
+  "active": "d57cbaf5006542e4",
   "lastOpenFiles": [
     "Docker.md",
+    "2025-04-02.md",
     "img.png",
     "Pasted image 20250402214913.png",
     "Pasted image 20250402214922.png",
