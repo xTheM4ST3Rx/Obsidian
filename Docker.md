@@ -90,11 +90,6 @@ Docker permite que você empacote uma aplicação e todas as suas dependências 
 
 ## Exemplo Prático
 
-A seguir, um exemplo simples de um Dockerfile para uma aplicação baseada em Ubuntu:
-
-
-### Dockerfile
-
 Crie um arquivo chamado `Dockerfile` na raiz do projeto com o seguinte conteúdo:
 
 ```dockerfile
@@ -134,4 +129,5 @@ EXPOSE 80
 
 # Comando para iniciar o Nginx em primeiro plano
 CMD ["nginx", "-g", "daemon off;"]
+```
 
