@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "19004e9b933547bd",
+        "id": "ef83539ecd991b70",
         "type": "tabs",
         "children": [
           {
-            "id": "2358472467bfb286",
+            "id": "c2fa526a69fb29ec",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250402214913.png"
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250402214913"
+              "icon": "lucide-file",
+              "title": "Docker"
             }
           }
         ]
@@ -167,11 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2358472467bfb286",
+  "active": "c2fa526a69fb29ec",
   "lastOpenFiles": [
-    "Pasted image 20250402214922.png",
+    "img.png",
     "Docker.md",
     "Pasted image 20250402214913.png",
+    "Pasted image 20250402214922.png",
     "Untitled",
     "Infra",
     "Untitled.canvas"
