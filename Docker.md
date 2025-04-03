@@ -116,7 +116,7 @@ RUN yarn install --frozen-lockfile
 COPY . .
 
 # Executa o build da aplicação (gera os arquivos estáticos em /app/dist)
-RUN yarn build
+RUN npm run build
 
 # ------------------------------
 # Stage 2: Servir a aplicação com Nginx
