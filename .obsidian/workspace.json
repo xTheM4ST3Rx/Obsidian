@@ -11,14 +11,10 @@
             "id": "d57cbaf5006542e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "New tab"
             }
           }
         ]
@@ -150,13 +146,23 @@
               "icon": "lucide-list",
               "title": "Outline of Docker"
             }
+          },
+          {
+            "id": "0147bceebf2b4a5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
