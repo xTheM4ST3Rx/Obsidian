@@ -8,8 +8,8 @@ Uma imagem é um template imutável que contém tudo o que é necessário para c
 Um contêiner é uma instância em execução de uma imagem Docker. Ele funciona como um ambiente isolado que compartilha o kernel do sistema operacional do host, mas mantém a aplicação e suas dependências separadas, garantindo leveza e alta performance. Essa abordagem é bem diferente da virtualização tradicional, pois não há necessidade de carregar um sistema operacional completo dentro de cada contêiner 
 
 
+**Comandos:**
 `
-```cmd
-
+```
 docker
 ```
