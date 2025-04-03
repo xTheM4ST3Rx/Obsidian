@@ -5,11 +5,13 @@
 
 🖼️ -  **Imagem :**  
 -  Template imutável que contém o sistema de arquivos, bibliotecas, dependências, configurações e instruções necessárias para executar uma aplicação.
-  
 - Construída em camadas, permitindo a reutilização e otimização durante o processo de criação.
 
 📦 -  **Contêiner:**  
-- Um contêiner é uma instância em execução de uma imagem Docker. Ele funciona como um ambiente isolado que compartilha o kernel do sistema operacional do host, mas mantém a aplicação e suas dependências separadas, garantindo leveza e alta performance. Essa abordagem é bem diferente da virtualização tradicional, pois não há necessidade de carregar um sistema operacional completo dentro de cada contêiner 
+- Instância em execução de uma imagem Docker.
+- Fornece um ambiente isolado que utiliza o kernel do host, mantendo a aplicação e suas dependências separadas.
+- Oferece leveza e alta performance, sem a necessidade de carregar um sistema operacional completo como em máquinas virtuais.
+
 
 
 **Comandos:**
