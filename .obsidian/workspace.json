@@ -11,14 +11,12 @@
             "id": "2358472467bfb286",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250402214913.png"
               },
-              "icon": "lucide-file",
-              "title": "Docker"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250402214913"
             }
           }
         ]
@@ -169,10 +167,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fad660642e7a98b",
+  "active": "2358472467bfb286",
   "lastOpenFiles": [
-    "Untitled",
+    "Pasted image 20250402214922.png",
     "Docker.md",
+    "Pasted image 20250402214913.png",
+    "Untitled",
     "Infra",
     "Untitled.canvas"
   ]
