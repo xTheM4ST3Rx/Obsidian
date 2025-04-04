@@ -1,3 +1,0 @@
-# Topicos
-[teste](JS/#exemplo)
-
