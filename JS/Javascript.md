@@ -1,0 +1,13 @@
+
+
+
+
+# Exemplo
+```js
+function teste(){}
+
+```
+
+
+
+
