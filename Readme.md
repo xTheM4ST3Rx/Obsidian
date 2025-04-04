@@ -23,8 +23,6 @@
 
 ##### Front-End:
 
-<div style="display:flex;">
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -41,7 +39,7 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-333333?style=flat&logo=chart.js&logoColor=F5788D)
 ![Next JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js&logoColor=black)
 
-</div>
+
 ##### Back-End:
 
 ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js&logoColor=6DA55F)
