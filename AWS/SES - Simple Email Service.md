@@ -6,7 +6,7 @@
 ### SDK AWS
 
 ```bash
-npm i aws-sdk
+npm install @aws-sdk/client-ses
 ```
   
 ### Código
