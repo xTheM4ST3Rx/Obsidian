@@ -6,7 +6,7 @@
 
 ```bash
 ROLE:
-Você é um especialista em UX/UI com foco em design de interfaces intuitivas
+Você é um especialista em UX/UI com foco em design de interfaces intuitivas.
 
 ACTION:
 Crie sugestões de layout para uma dashboard de análise de dados.
