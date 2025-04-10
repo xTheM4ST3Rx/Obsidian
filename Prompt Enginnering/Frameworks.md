@@ -18,4 +18,12 @@
 - **Action**: Defina o trabalho a ser feito
 - **Purpose**: Forneça a meta esperada
 - **Execution**: Descreva o resultado que você deseja
+### 💡Create
+- **Character**: Especifique a função
+- **Request**: Definir uma tarefa a ser realizada
+- **Examples**: Defina exemplos de saída
+- **Adjustment**: fornecer instruções de melhoria
+- **Type of output**: Descreva o resultado que você deseja
+- **Extras**: Descreva o resultado que você deseja
+
 
