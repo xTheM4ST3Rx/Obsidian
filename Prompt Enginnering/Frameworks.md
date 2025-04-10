@@ -34,6 +34,6 @@
 ### 💔Pain
 - **Problem**: Descreva seu problema
 - **Action**: Definir uma tarefa a ser realizada
-- **Informartion**: Forneça as ações necessárias
-- **Next Steps**: Forneça o seu problema
+- **Information**: Descreva detalhes 
+- **Next Steps**: Peça recursos
 
