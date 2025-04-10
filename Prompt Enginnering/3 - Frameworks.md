@@ -1,3 +1,4 @@
+___
 ### 🏁RACE
 - **Role**: Especifique a função
 - **Action**: Mencione a ação necessária
@@ -16,6 +17,7 @@ A dashboard será usada por gestores de marketing para visualizar KPIs como CAC,
 EXPLANATION:
 O resultado deve ser uma descrição clara de como organizar os elementos visuais da interface (gráficos, filtros, menus, cores) para maximizar a compreensão e a usabilidade, com foco em tomada de decisão rápida.
 ```
+___
 ### 💗CARE
 - **Context**: Forneça informações básicas
 - **Action**: Mencione a ação necessária
@@ -41,6 +43,7 @@ Benefícios:
 - Aumente seu foco em até 300%  
     CTA: “Quero ser mais produtivo agora!”
 ```
+___
 ### 🌹ROSES
 - **Role**: Especifique a função
 - **Objective**: Descreva o resultado que você deseja
@@ -68,6 +71,7 @@ STEPS:
 - Testar com diferentes volumes e ajustar para otimizar custo vs. desempenho.
 - Implementar limites e estratégias de fallback para quando o histórico for muito longo.
 ```
+___
 ### 🐒APE
 - **Action**: Defina o trabalho a ser feito
 - **Purpose**: Forneça a meta esperada
@@ -88,6 +92,7 @@ Preciso que cada e-mail tenha:
  
 Os e-mails devem ser curtos, com linguagem informal e focados em designers iniciantes que querem viver de freelas.
 ```
+___
 ### 💡Create
 - **Character**: Especifique a função
 - **Request**: Definir uma tarefa a ser realizada
@@ -116,6 +121,7 @@ Uma lista numerada com slogans curtos (máximo 8 palavras cada), sem explicaçõ
 EXTRA:
 O nome da marca é "VIRA", e ela se posiciona como uma marca sustentável, urbana e com pegada cultural. Os slogans serão usados em campanhas no Instagram, então precisam ter impacto visual e sonoro.
 ```
+___
 ### 🏝️Coast
 - **Context**: Forneça informações básicas
 - **Objective**: Forneça a meta esperada
@@ -141,6 +147,7 @@ Muitos visitantes entram no site, mas poucos interagem com o botão de “Agenda
 TASK:
 Crie uma proposta de estrutura para a home page, incluindo uma descrição por seção (em texto), sugestões de copy e elementos visuais que gerem confiança e ação imediata.
 ```
+___
 ### 💔Pain
 - **Problem**: Descreva seu problema
 - **Action**: Definir uma tarefa a ser realizada
@@ -167,6 +174,7 @@ NEXT STEPS:
 - Personalizar mensagens de erro e mostrar validação em tempo real
 - Fazer A/B testing com duas versões de formulário mais simples
 ```
+___
 ### 🔰Tag
 - **Task**: Descreva seu problema
 - **Action**: Definir uma tarefa a ser realizada
@@ -181,6 +189,7 @@ Sugira melhorias na forma como armazeno e reutilizo o histórico de mensagens pa
 GOAL:
 Melhorar a coerência das respostas em diálogos mais longos, garantindo que o chatbot entenda o que foi dito anteriormente e responda de forma contextual e natural, como uma conversa humana fluida.
 ```
+___
 ### 🚀Rise
 - **Role**: Especifique a função
 - **Input**: Definir contexto e instruções
@@ -202,6 +211,7 @@ STEPS:
 EXECUTION:
 Gerar o conteúdo completo do onboarding em formato estruturado (título, subtítulo, CTA e mensagens de apoio), pronto para ser aplicado no app. O objetivo é que o usuário complete o onboarding com a sensação de que “organizar as finanças pode ser fácil”.
 ```
+___
 ### 📝CREO
 - **Context**: Forneça informações básicas
 - **Request**: Definir uma tarefa a ser realizada
@@ -220,5 +230,4 @@ O vídeo deve ter uma introdução rápida que chame atenção, um exemplo prát
 OUTCOME:
 Receber um roteiro completo dividido em blocos (introdução, desenvolvimento, conclusão), pronto para ser narrado e transformado em conteúdo para Reels. O roteiro precisa informar, engajar e incentivar o seguidor a comentar ou salvar.
 ```
-
-
+___

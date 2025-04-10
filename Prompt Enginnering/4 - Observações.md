@@ -1,4 +1,5 @@
 
+___
 ### Formato de Prompt 
 *Teste realizado (10/04/2025)*
 
@@ -9,6 +10,7 @@
 | `- Role:`         | ⭐⭐⭐⭐            | ⭐⭐⭐⭐            | ⭐⭐⭐⭐         | Neutro / Markdown-style | ✅ Sim            |
 | `Role` `Action`   | ⭐⭐⭐             | ⭐⭐⭐             | ⭐⭐⭐          | Simples / Rápido        | ✅ Sim            |
 | Texto corrido     | ⭐⭐              | ⭐⭐              | ⭐⭐           | Desorganizado           | ❌ Não se aplica  |
+___
 ### 📊 Tabela Comparativa dos Frameworks de Prompt
 *Teste realizado (10/04/2025)*
 
@@ -24,7 +26,7 @@
 | TAG       | Task, Action, Goal                       | Simplicidade prática   | Resumos rápidos, microbriefings, ou tarefas pequenas        | Baixo            | Projetos estratégicos e detalhados             |
 | RISE      | Role, Input, Steps, Execution            | Execução passo a passo | Planejar e executar ações com clareza de processo           | Médio/Alto       | Casos com pouca clareza do objetivo final      |
 | CREO      | Context, Request, Explanation, Outcome   | Explicação + resultado | Entregas de conteúdo estruturado com propósito claro        | Médio            | Projetos técnicos muito específicos            |
-
+___
 
 
 
