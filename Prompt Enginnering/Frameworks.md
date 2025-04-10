@@ -5,7 +5,17 @@
 - **Explanation**: Descreva o resultado que você deseja
 
 ```bash
-sss
+ROLE:
+Você é um especialista em UX/UI com foco em design de interfaces intuitivas
+
+ACTION:
+Crie sugestões de layout para uma dashboard de análise de dados.
+
+CONTEXT:
+A dashboard será usada por gestores de marketing para visualizar KPIs como CAC, LTV, ROI e taxa de conversão, com dados atualizados em tempo real.
+
+EXPLANATION:
+O resultado deve ser uma descrição clara de como organizar os elementos visuais da interface (gráficos, filtros, menus, cores) para maximizar a compreensão e a usabilidade, com foco em tomada de decisão rápida.
 ```
 
   
