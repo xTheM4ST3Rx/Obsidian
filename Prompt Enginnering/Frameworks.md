@@ -3,6 +3,12 @@
 - **Action**: Mencione a ação necessária
 - **Context**: Forneça informações básicas
 - **Explanation**: Descreva o resultado que você deseja
+
+```bash
+sss
+```
+
+  
 ### 💗CARE
 - **Context**: Forneça informações básicas
 - **Action**: Mencione a ação necessária
@@ -46,9 +52,9 @@
 - **Steps**: Passo a passo
 - **Execution**: Explicar o resultado final
 ### 📝CREO
-- **Context**: Especifique a função
-- **Request**: Definir contexto e instruções
-- **Explanation**: Passo a passo
+- **Context**: Forneça informações básicas
+- **Request**: Definir uma tarefa a ser realizada
+- **Explanation**: Explique a tarefa
 - **Outcome**: Explicar o resultado final
 
 
