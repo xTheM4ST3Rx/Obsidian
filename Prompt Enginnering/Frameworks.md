@@ -22,8 +22,18 @@
 - **Character**: Especifique a função
 - **Request**: Definir uma tarefa a ser realizada
 - **Examples**: Defina exemplos de saída
-- **Adjustment**: fornecer instruções de melhoria
-- **Type of output**: Descreva o resultado que você deseja
-- **Extras**: Descreva o resultado que você deseja
-
+- **Adjustment**: Fornecer instruções de melhoria
+- **Type of output**: Especifique o formato da saída
+- **Extras**: Adicione mais contexto
+### 🏝️Coast
+- **Context**: Forneça informações básicas
+- **Objective**: Forneça a meta esperada
+- **Actions**: Forneça as ações necessárias
+- **Scenario**: Forneça o seu problema
+- **Task**: Definir uma tarefa a ser realizada
+### 💔Pain
+- **Problem**: Descreva seu problema
+- **Action**: Definir uma tarefa a ser realizada
+- **Informartion**: Forneça as ações necessárias
+- **Next Steps**: Forneça o seu problema
 
