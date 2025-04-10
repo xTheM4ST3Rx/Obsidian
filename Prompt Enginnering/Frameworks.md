@@ -188,18 +188,15 @@ Melhorar a coerência das respostas em diálogos mais longos, garantindo que o c
 - **Execution**: Explicar o resultado final
 ```ts
 ROLE:
-Tenho um chatbot que responde bem a perguntas simples, mas se perde quando a conversa se estende por várias mensagens. Ele não mantém o contexto adequadamente.
+Você é um UX Writer com foco em transformar conteúdos técnicos em mensagens simples, acessíveis e com tom amigável.
 
 INPUT:
 Estou desenvolvendo uma interface de onboarding para um aplicativo de gestão financeira pessoal. O público é leigo em finanças, mas quer começar a organizar melhor o dinheiro. A interface precisa ser simples, acolhedora e educativa sem parecer chata.
 
 STEPS:
-- Escrever os textos para cada etapa do onboarding (máximo 3 etapas)
-    
-- Usar linguagem inclusiva, simples e motivacional
-    
-- Inserir CTA amigável ao final de cada etapa
-    
+- Escrever os textos para cada etapa do onboarding (máximo 3 etapas) 
+- Usar linguagem inclusiva, simples e motivacional 
+- Inserir CTA amigável ao final de cada etapa 
 - Incluir sugestões de microtextos para botões e mensagens de ajuda
 
 EXECUTION:
@@ -210,5 +207,18 @@ Gerar o conteúdo completo do onboarding em formato estruturado (título, subtí
 - **Request**: Definir uma tarefa a ser realizada
 - **Explanation**: Explique a tarefa
 - **Outcome**: Explicar o resultado final
+```ts
+CONTEXT:
+Estou criando uma série de vídeos curtos para o Instagram, voltados a freelancers que estão começando a captar seus primeiros clientes. A ideia é entregar dicas práticas de forma leve e visual.
+
+REQUEST:
+Escreva o roteiro para um vídeo de até 60 segundos com o tema: “Como definir seu primeiro preço como freelancer”.
+
+EXPLANATION:
+O vídeo deve ter uma introdução rápida que chame atenção, um exemplo prático de cálculo de preço (sem complicar), e uma conclusão com dica bônus ou CTA. A linguagem precisa ser informal, mas passar autoridade. O público está começando e ainda tem medo de cobrar.
+
+OUTCOME:
+Receber um roteiro completo dividido em blocos (introdução, desenvolvimento, conclusão), pronto para ser narrado e transformado em conteúdo para Reels. O roteiro precisa informar, engajar e incentivar o seguidor a comentar ou salvar.
+```
 
 

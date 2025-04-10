@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Prompt Enginnering/Frameworks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,8 +182,8 @@
   "active": "149b4053b2d742db",
   "lastOpenFiles": [
     "Prompt Enginnering/Observações.md",
-    "Prompt Enginnering/Estrátegias.md",
     "Prompt Enginnering/Frameworks.md",
+    "Prompt Enginnering/Estrátegias.md",
     "Prompt Enginnering/Introdução.md",
     "AWS/SES - Simple Email Service.md",
     "AWS/Docker.md",
