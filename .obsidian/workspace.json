@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Enginnering.md",
+                "file": "Prompt Enginnering/Introdução.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introdução"
+            }
+          },
+          {
+            "id": "149b4053b2d742db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt Enginnering/Introdução.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Enginnering"
+              "title": "Introdução"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,13 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35ca0337c8a14125",
+  "active": "149b4053b2d742db",
   "lastOpenFiles": [
+    "Prompt Enginnering/Estrátegias.md",
+    "Prompt Enginnering/Introdução.md",
+    "Readme.md",
+    "Prompt Enginnering",
     "AWS/Docker.md",
-    "Prompt Enginnering.md",
     "AWS/SES - Simple Email Service.md",
     "Prompt Enginnering",
-    "Readme.md",
     "AWS",
     "JS.md",
     "Untitled.canvas",
