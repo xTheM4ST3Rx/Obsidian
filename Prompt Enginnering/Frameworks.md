@@ -34,17 +34,21 @@
 ### 💔Pain
 - **Problem**: Descreva seu problema
 - **Action**: Definir uma tarefa a ser realizada
-- **Information**: Peça informações para melhorar
-- **Next Steps**: Peça recursos se necessários
+- **Information**: Informações para melhorar
+- **Next Steps**: Explique os recursos a serem realizado
 ### 🔰Tag
 - **Task**: Descreva seu problema
 - **Action**: Definir uma tarefa a ser realizada
 - **Goal**: Explicar o objetivo final
-  
 ### 🚀Rise
 - **Role**: Especifique a função
-- **Input**: Definir uma tarefa a ser realizada
-- **Steps**: Peça informações para melhorar
-- **Execution**: Peça recursos se necessários
+- **Input**: Definir contexto e instruções
+- **Steps**: Passo a passo
+- **Execution**: Explicar o resultado final
+### 📝CREO
+- **Context**: Especifique a função
+- **Request**: Definir contexto e instruções
+- **Explanation**: Passo a passo
+- **Outcome**: Explicar o resultado final
 
 
