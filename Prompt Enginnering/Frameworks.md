@@ -123,40 +123,88 @@ O nome da marca é "VIRA", e ela se posiciona como uma marca sustentável, urban
 - **Scenario**: Forneça o seu problema
 - **Task**: Definir uma tarefa a ser realizada
 ```ts
-CHARACTER:
-Você é um redator publicitário sênior especializado em marcas modernas e descoladas.
+CONTEXT:
+Estou criando uma plataforma de mentoria online onde especialistas oferecem sessões individuais para iniciantes em suas áreas (ex: design, marketing, programação). O site será responsivo e precisa passar credibilidade e facilidade de uso.
 
-REQUEST:
-Crie 3 variações de slogan para uma marca de roupas sustentáveis voltada ao público jovem e urbano.
+OBJECTIVE:
+Desenvolver o layout inicial da home page com foco em conversão: o usuário precisa entender o valor da mentoria em poucos segundos e ser incentivado a agendar uma sessão.
 
-EXAMPLE:
-- “Vista o agora, pense no futuro.”
-- “Moda consciente, atitude impactante.”
-- “Estilo com propósito.”
+ACTIONS:
+- Criar a hierarquia visual da página (hero, benefícios, depoimentos, CTA) 
+- Escrever os textos principais da landing page
+- Sugerir um esquema de cores moderno e profissional
+- Incluir ideias para elementos interativos (ex: cards de mentor, carrossel de avaliações)
 
-ADJUSTMENT:
-Evite clichês como “verde”, “planeta” ou “ecológico”. Use linguagem jovem, criativa, com um toque de rebeldia leve.
+SCENARIO:
+Muitos visitantes entram no site, mas poucos interagem com o botão de “Agendar Mentoria”. Acredito que o layout e o conteúdo visual/textual ainda não estão comunicando bem o diferencial da proposta.
 
-TYPE OF OUTPUT:
-Uma lista numerada com slogans curtos (máximo 8 palavras cada), sem explicações adicionais.
-
-EXTRA:
-O nome da marca é "VIRA", e ela se posiciona como uma marca sustentável, urbana e com pegada cultural. Os slogans serão usados em campanhas no Instagram, então precisam ter impacto visual e sonoro.
+TASK:
+Crie uma proposta de estrutura para a home page, incluindo uma descrição por seção (em texto), sugestões de copy e elementos visuais que gerem confiança e ação imediata.
 ```
 ### 💔Pain
 - **Problem**: Descreva seu problema
 - **Action**: Definir uma tarefa a ser realizada
 - **Information**: Informações para melhorar
 - **Next Steps**: Explique os recursos a serem realizado
+```ts
+PROBLEM:
+Usuários estão abandonando o formulário de cadastro da minha aplicação antes de concluir. A taxa de conversão está muito baixa, mesmo com tráfego qualificado vindo de campanhas pagas.
+
+ACTION:
+Analise o fluxo atual do formulário e sugira melhorias de UX/UI para reduzir o abandono e aumentar a taxa de finalização.
+
+INFORMATION:
+- O formulário possui 6 etapas 
+- Não há barra de progresso visível 
+- Alguns campos pedem informações sensíveis logo no início (CPF, telefone) 
+- A versão mobile representa 80% dos acessos    
+- Feedback de erro é genérico e só aparece ao final
+
+NEXT STEPS:
+- Reorganizar os campos para capturar o essencial primeiro
+- Inserir barra de progresso clara e animada 
+- Dividir em menos etapas ou tornar o fluxo mais leve visualmente
+- Personalizar mensagens de erro e mostrar validação em tempo real
+- Fazer A/B testing com duas versões de formulário mais simples
+```
 ### 🔰Tag
 - **Task**: Descreva seu problema
 - **Action**: Definir uma tarefa a ser realizada
 - **Goal**: Explicar o objetivo final
+```ts
+TASK:
+Tenho um chatbot que responde bem a perguntas simples, mas se perde quando a conversa se estende por várias mensagens. Ele não mantém o contexto adequadamente.
+
+ACTION:
+Sugira melhorias na forma como armazeno e reutilizo o histórico de mensagens para manter o contexto da conversa com qualidade, usando a API da OpenAI.
+
+GOAL:
+Melhorar a coerência das respostas em diálogos mais longos, garantindo que o chatbot entenda o que foi dito anteriormente e responda de forma contextual e natural, como uma conversa humana fluida.
+```
 ### 🚀Rise
 - **Role**: Especifique a função
 - **Input**: Definir contexto e instruções
 - **Steps**: Passo a passo
 - **Execution**: Explicar o resultado final
+```ts
+ROLE:
+Tenho um chatbot que responde bem a perguntas simples, mas se perde quando a conversa se estende por várias mensagens. Ele não mantém o contexto adequadamente.
+
+INPUT:
+Estou desenvolvendo uma interface de onboarding para um aplicativo de gestão financeira pessoal. O público é leigo em finanças, mas quer começar a organizar melhor o dinheiro. A interface precisa ser simples, acolhedora e educativa sem parecer chata.
+
+STEPS:
+- Escrever os textos para cada etapa do onboarding (máximo 3 etapas)
+    
+- Usar linguagem inclusiva, simples e motivacional
+    
+- Inserir CTA amigável ao final de cada etapa
+    
+- Incluir sugestões de microtextos para botões e mensagens de ajuda
+
+EXECUTION:
+Gerar o conteúdo completo do onboarding em formato estruturado (título, subtítulo, CTA e mensagens de apoio), pronto para ser aplicado no app. O objetivo é que o usuário complete o onboarding com a sensação de que “organizar as finanças pode ser fácil”.
+```
 ### 📝CREO
 - **Context**: Forneça informações básicas
 - **Request**: Definir uma tarefa a ser realizada
