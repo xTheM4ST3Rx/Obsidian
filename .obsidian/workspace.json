@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Enginnering/Frameworks.md",
-                "mode": "preview",
+                "file": "Prompt Enginnering/3 - Frameworks.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frameworks"
+              "title": "3 - Frameworks"
             }
           }
         ]
@@ -181,13 +181,13 @@
   },
   "active": "149b4053b2d742db",
   "lastOpenFiles": [
-    "Prompt Enginnering/Observações.md",
-    "Prompt Enginnering/Frameworks.md",
-    "Prompt Enginnering/Estrátegias.md",
-    "Prompt Enginnering/Introdução.md",
+    "Readme.md",
+    "Prompt Enginnering/4 - Observações.md",
+    "Prompt Enginnering/3 - Frameworks.md",
+    "Prompt Enginnering/1 - Introdução.md",
+    "Prompt Enginnering/2 - Estrátegias.md",
     "AWS/SES - Simple Email Service.md",
     "AWS/Docker.md",
-    "Readme.md",
     "Prompt Enginnering",
     "Prompt Enginnering",
     "AWS",

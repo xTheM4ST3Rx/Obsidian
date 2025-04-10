@@ -25,15 +25,6 @@
 | RISE      | Role, Input, Steps, Execution            | Execução passo a passo | Planejar e executar ações com clareza de processo           | Médio/Alto       | Casos com pouca clareza do objetivo final      |
 | CREO      | Context, Request, Explanation, Outcome   | Explicação + resultado | Entregas de conteúdo estruturado com propósito claro        | Médio            | Projetos técnicos muito específicos            |
 
-## 📌 Sugestões de uso por cenário
-*Teste realizado (10/04/2025)*
 
-| Cenário                                                     | Framework Ideal      | Motivo                                                                 |
-|-------------------------------------------------------------|----------------------|------------------------------------------------------------------------|
-| Criar um prompt rápido para geração de texto simples        | **TAG** ou **APE**   | Menos estrutura, mais velocidade                                       |
-| Planejar uma tarefa técnica com etapas                      | **ROSES** ou **RISE**| Divide bem o processo em objetivos claros e passos                     |
-| Explicar um problema no fluxo de um sistema                 | **PAIN** ou **COAST**| Ideal pra diagnosticar e guiar melhorias                               |
-| Produzir conteúdo criativo com parâmetros específicos       | **CREATE**           | Dá controle fino sobre a criação de conteúdo                           |
-| Criar conteúdo com base em briefing com exemplo             | **CARE** ou **CREO** | Mostra o que se quer e como deve parecer no final                      |
-| Delegar uma tarefa com papel claro                          | **RACE** ou **RISE** | Especifica o papel, ação e resultado esperado                          |
+
 
