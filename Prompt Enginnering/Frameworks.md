@@ -16,8 +16,6 @@ A dashboard será usada por gestores de marketing para visualizar KPIs como CAC,
 EXPLANATION:
 O resultado deve ser uma descrição clara de como organizar os elementos visuais da interface (gráficos, filtros, menus, cores) para maximizar a compreensão e a usabilidade, com foco em tomada de decisão rápida.
 ```
-
-  
 ### 💗CARE
 - **Context**: Forneça informações básicas
 - **Action**: Mencione a ação necessária
@@ -74,7 +72,22 @@ STEPS:
 - **Action**: Defina o trabalho a ser feito
 - **Purpose**: Forneça a meta esperada
 - **Execution**: Descreva o resultado que você deseja
--
+```ts
+ACTION:
+Crie uma sequência de e-mails automatizados para um funil de vendas de um curso online de design gráfico.
+
+PURPOSE:
+O objetivo é aumentar a conversão de leads frios em compradores, conduzindo o usuário do primeiro contato até a decisão de compra em no máximo 5 e-mails.
+
+EXECUTION:
+Preciso que cada e-mail tenha:
+- Um assunto chamativo
+- Texto envolvente com gatilhos mentais (ex: autoridade, escassez) 
+- Um CTA claro 
+- Progresso lógico entre os e-mails (introdução, dor, solução, prova, urgência) 
+ 
+Os e-mails devem ser curtos, com linguagem informal e focados em designers iniciantes que querem viver de freelas.
+```
 ### 💡Create
 - **Character**: Especifique a função
 - **Request**: Definir uma tarefa a ser realizada
@@ -82,12 +95,54 @@ STEPS:
 - **Adjustment**: Fornecer instruções de melhoria
 - **Type of output**: Especifique o formato da saída
 - **Extras**: Adicione mais contexto
+```ts
+CHARACTER:
+Você é um redator publicitário sênior especializado em marcas modernas e descoladas.
+
+REQUEST:
+Crie 3 variações de slogan para uma marca de roupas sustentáveis voltada ao público jovem e urbano.
+
+EXAMPLE:
+- “Vista o agora, pense no futuro.”
+- “Moda consciente, atitude impactante.”
+- “Estilo com propósito.”
+
+ADJUSTMENT:
+Evite clichês como “verde”, “planeta” ou “ecológico”. Use linguagem jovem, criativa, com um toque de rebeldia leve.
+
+TYPE OF OUTPUT:
+Uma lista numerada com slogans curtos (máximo 8 palavras cada), sem explicações adicionais.
+
+EXTRA:
+O nome da marca é "VIRA", e ela se posiciona como uma marca sustentável, urbana e com pegada cultural. Os slogans serão usados em campanhas no Instagram, então precisam ter impacto visual e sonoro.
+```
 ### 🏝️Coast
 - **Context**: Forneça informações básicas
 - **Objective**: Forneça a meta esperada
 - **Actions**: Forneça as ações necessárias
 - **Scenario**: Forneça o seu problema
 - **Task**: Definir uma tarefa a ser realizada
+```ts
+CHARACTER:
+Você é um redator publicitário sênior especializado em marcas modernas e descoladas.
+
+REQUEST:
+Crie 3 variações de slogan para uma marca de roupas sustentáveis voltada ao público jovem e urbano.
+
+EXAMPLE:
+- “Vista o agora, pense no futuro.”
+- “Moda consciente, atitude impactante.”
+- “Estilo com propósito.”
+
+ADJUSTMENT:
+Evite clichês como “verde”, “planeta” ou “ecológico”. Use linguagem jovem, criativa, com um toque de rebeldia leve.
+
+TYPE OF OUTPUT:
+Uma lista numerada com slogans curtos (máximo 8 palavras cada), sem explicações adicionais.
+
+EXTRA:
+O nome da marca é "VIRA", e ela se posiciona como uma marca sustentável, urbana e com pegada cultural. Os slogans serão usados em campanhas no Instagram, então precisam ter impacto visual e sonoro.
+```
 ### 💔Pain
 - **Problem**: Descreva seu problema
 - **Action**: Definir uma tarefa a ser realizada
