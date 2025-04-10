@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#exemplo",
+                "query": "tag:#action",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "149b4053b2d742db",
+  "active": "0968b9e13090c521",
   "lastOpenFiles": [
     "Prompt Enginnering/Estrátegias.md",
     "Prompt Enginnering/Frameworks.md",
