@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
-                "mode": "preview",
+                "file": "MCP/1 - Arquitetura MCP.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "1 - Arquitetura MCP"
             }
           }
         ]
@@ -181,11 +181,14 @@
   },
   "active": "149b4053b2d742db",
   "lastOpenFiles": [
+    "Prompt Enginnering/1 - Introdução.md",
+    "MCP/1 - Arquitetura MCP.md",
+    "Pasted image 20250424150612.png",
+    "Readme.md",
+    "MCP",
     "Prompt Enginnering/4 - Observações.md",
     "Prompt Enginnering/3 - Frameworks.md",
     "Prompt Enginnering/2 - Estrátegias.md",
-    "Prompt Enginnering/1 - Introdução.md",
-    "Readme.md",
     "AWS/SES - Simple Email Service.md",
     "AWS/Docker.md",
     "Prompt Enginnering",
