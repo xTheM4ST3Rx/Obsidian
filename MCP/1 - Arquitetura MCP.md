@@ -20,3 +20,12 @@ ___
 - Prompts são "User-controlled", ou seja, os prompts ficam disponíveis, mas o usuário precisa "selecionar"
 - Podem ser templates estáticas, dinâmicos passando parâmetros, inclusive pegando contexto de um resource.
 - Dependendo da ferramenta pode ser utilizada com o "/"
+
+
+___
+# 🔌Formatos de Comunicação
+
+##### Stdio
+- O client MCP executa o servidor MCP como subprocesso.
+- O servidor recebe mensagens JSON-RPC em sua entrada padrão ()
+
