@@ -25,12 +25,14 @@
             "id": "a5599fe087aa8ec4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ],
@@ -194,10 +196,10 @@
   },
   "active": "a5599fe087aa8ec4",
   "lastOpenFiles": [
-    "Prompt Enginnering/1 - Introdução.md",
     "MCP/1 - Arquitetura MCP.md",
-    "Pasted image 20250424150612.png",
     "Readme.md",
+    "Prompt Enginnering/1 - Introdução.md",
+    "Pasted image 20250424150612.png",
     "MCP",
     "Prompt Enginnering/4 - Observações.md",
     "Prompt Enginnering/3 - Frameworks.md",
