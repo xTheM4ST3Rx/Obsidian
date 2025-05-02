@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1 - Arquitetura MCP"
             }
+          },
+          {
+            "id": "a5599fe087aa8ec4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "149b4053b2d742db",
+  "active": "a5599fe087aa8ec4",
   "lastOpenFiles": [
     "Prompt Enginnering/1 - Introdução.md",
     "MCP/1 - Arquitetura MCP.md",
